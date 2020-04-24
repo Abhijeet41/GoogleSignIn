@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleSignIn</string>
+    <string name="click_button_to_login">click button to login</string>
+</resources>
